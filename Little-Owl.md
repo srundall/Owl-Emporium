@@ -8,7 +8,10 @@ The Little Owl is a territorial little bird found in the Middle East, Central As
 - Little Owls are highly territorial once they've settled down
 - Little Owls are known to eat crickets, grasshoppers, and several invertebrates, setting them apart from the rodent-eating nature of most other owls
 - Some farmers set up nest boxes for Little Owls to live in
+- Little Owls are also known as the owls of Athena or owls of Minerva
+- The little owl is closely related to the Spotted Owl
 
 Information on this page and more can be found [here](https://www.barnowltrust.org.uk/barn-owl-facts/uk-owl-species/little-owl-facts/)
+[here](https://en.wikipedia.org/wiki/Little_owl)
 
 [Title Page](Erin's-Owl-Emporium.md)
